@@ -1,4 +1,4 @@
-# Deep-learning practice
+# Deep-learning practice(예제)
 
 1. 파이썬 코딩으로 확인하는 다중 선형 회귀
 
